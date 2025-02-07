@@ -1,7 +1,7 @@
 # React-Router-Web
 
 
-#header component
+# header component
 export default function Header() {
     return (
         <header className="shadow sticky z-50 top-0">
